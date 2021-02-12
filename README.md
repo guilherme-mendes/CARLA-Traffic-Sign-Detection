@@ -2,7 +2,7 @@
 
 To run our model you need:
 
-1 - do the tasks in this repo https://github.com/martisaju/CARLA-Speed-Traffic-Sign-Detection-Using-Yolo
+1 - do the tasks in this repo https://github.com/umtclskn/Carla_Simulator_YOLOV3_Object_Detection
 
 2 - You need to install Tesseract 4
 
